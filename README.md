@@ -4,4 +4,4 @@ CADME GUSTAVO
 CEDEÑO NOHELIA
 MIRANDA MAYERLY
 RIZO NATHALY
-<img src="CAPTURA1.png" width= "500" height="500">
+<img src="Captura1.png" width= "500" height="500">
